@@ -62,4 +62,3 @@ The `types.industrial` class **extends** the `base.Robot` class. This is a clear
 
 ### Interfaces
 The project uses several **interfaces** (`interfaces.movable`, `interfaces.social`, `interfaces.workable`) to define capabilities or behaviors that can be implemented by different classes. The `types.industrial` class **implements** these interfaces, promising to provide concrete implementations for methods like `move()`, `communicate()`, and `pick_object()`. This allows for a flexible and modular design where different robots can share common functionalities without being related by inheritance.
-# Learning
