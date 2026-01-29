@@ -1,16 +1,28 @@
-# Daily Learning Log: Java Core & JVM Internals
 
-**Date:** January 29, 2026  
-**Focus:** JVM Memory, Input, Arrays, and Methods
+DAY_04 29-01-26
 
-Today I went deeper into how Java actually works under the hood (JVM), alongside learning standard tools like Arrays and Scanner.
+## ✅ Topics I Covered Today
 
-### 📝 Topics Covered
-1.  **JVM Internals:** Stack vs. Heap memory, and the application entry point.
-2.  **Reading Input:** Using the `Scanner` class correctly.
-3.  **Strings:** Immutability and processing text.
-4.  **Arrays:** Storing multiple values and iterating with loops.
-5.  **Methods:** Organizing code into reusable blocks.
+- Writing and running a Java program
+- Compilation and how Java executes code
+- Java Virtual Machine (JVM)
+- JDK and JRE and how they are connected
+- Integer data types
+- Declaring variables and assigning values
+- Binary arithmetic operators
+- Unary operators
+- Writing complex expressions
+- Operator precedence
+- Using `++` and `--`
+- Boolean type and logical operators
+- Relational operators and comparisons
+- Short-circuiting in logical operations
+- Characters, codes, and escape sequences
+- Reading numbers from standard input
 
 ---
-*See `notes.md` for detailed examples and code snippets.*
+
+📂 All my **detailed notes** are written in `notes.md`  
+I wrote them in very simple language so I can revise quickly later ✍️
+
+
